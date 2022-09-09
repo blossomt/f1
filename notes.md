@@ -44,3 +44,6 @@ just got license,
 - which race to go to - f1 sites look for rural and unpredictable weather. and less gear shifts. 
 - weather
 - tyre strategy - raining dont need to change tyres, but will prob want to change as they absorb water.
+
+circuits
+- downforce level https://sportsdud.com/f1-list-of-power-tracks/
