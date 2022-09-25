@@ -13,7 +13,7 @@ raceId,race,year,round,accident
 12,Belgian Grand Prix,2009,12,4
 13,Italian Grand Prix,2009,13,2
 14,Singapore Grand Prix,2009,14,2
-15,Japanese Grand Prix,2009,15,2
+15,Japanese Grand Prix,2009,15,1
 16,Brazilian Grand Prix,2009,16,4
 17,Abu Dhabi Grand Prix,2009,17,0
 18,Australian Grand Prix,2008,1,8
@@ -112,7 +112,7 @@ raceId,race,year,round,accident
 111,San Marino Grand Prix,2003,4,0
 112,Spanish Grand Prix,2003,5,3
 113,Austrian Grand Prix,2003,6,0
-114,Monaco Grand Prix,2003,7,2
+114,Monaco Grand Prix,2003,7,1
 115,Canadian Grand Prix,2003,8,1
 116,European Grand Prix,2003,9,1
 117,French Grand Prix,2003,10,0
@@ -132,13 +132,13 @@ raceId,race,year,round,accident
 131,Canadian Grand Prix,2002,8,1
 132,European Grand Prix,2002,9,3
 133,British Grand Prix,2002,10,1
-134,French Grand Prix,2002,11,3
+134,French Grand Prix,2002,11,2
 135,German Grand Prix,2002,12,2
 136,Hungarian Grand Prix,2002,13,2
 137,Belgian Grand Prix,2002,14,1
 138,Italian Grand Prix,2002,15,2
 139,United States Grand Prix,2002,16,0
-140,Japanese Grand Prix,2002,17,3
+140,Japanese Grand Prix,2002,17,2
 141,Australian Grand Prix,2001,1,3
 142,Malaysian Grand Prix,2001,2,4
 143,Brazilian Grand Prix,2001,3,6
@@ -157,7 +157,7 @@ raceId,race,year,round,accident
 156,United States Grand Prix,2001,16,1
 157,Japanese Grand Prix,2001,17,2
 158,Australian Grand Prix,2000,1,1
-159,Brazilian Grand Prix,2000,2,3
+159,Brazilian Grand Prix,2000,2,1
 160,San Marino Grand Prix,2000,3,2
 161,British Grand Prix,2000,4,1
 162,Spanish Grand Prix,2000,5,3
@@ -190,7 +190,7 @@ raceId,race,year,round,accident
 189,Malaysian Grand Prix,1999,15,4
 190,Japanese Grand Prix,1999,16,0
 191,Australian Grand Prix,1998,1,3
-192,Brazilian Grand Prix,1998,2,3
+192,Brazilian Grand Prix,1998,2,2
 193,Argentine Grand Prix,1998,3,3
 194,San Marino Grand Prix,1998,4,2
 195,Spanish Grand Prix,1998,5,2
@@ -220,14 +220,14 @@ raceId,race,year,round,accident
 219,Italian Grand Prix,1997,13,3
 220,Austrian Grand Prix,1997,14,3
 221,Luxembourg Grand Prix,1997,15,4
-222,Japanese Grand Prix,1997,16,3
+222,Japanese Grand Prix,1997,16,2
 223,European Grand Prix,1997,17,2
 224,Australian Grand Prix,1996,1,3
 225,Brazilian Grand Prix,1996,2,7
 226,Argentine Grand Prix,1996,3,4
 227,European Grand Prix,1996,4,2
 228,San Marino Grand Prix,1996,5,2
-229,Monaco Grand Prix,1996,6,14
+229,Monaco Grand Prix,1996,6,13
 230,Spanish Grand Prix,1996,7,10
 231,Canadian Grand Prix,1996,8,4
 232,French Grand Prix,1996,9,0
@@ -254,12 +254,12 @@ raceId,race,year,round,accident
 253,European Grand Prix,1995,14,5
 254,Pacific Grand Prix,1995,15,2
 255,Japanese Grand Prix,1995,16,8
-256,Australian Grand Prix,1995,17,8
+256,Australian Grand Prix,1995,17,7
 257,Brazilian Grand Prix,1994,1,9
 258,Pacific Grand Prix,1994,2,7
-259,San Marino Grand Prix,1994,3,9
-260,Monaco Grand Prix,1994,4,6
-261,Spanish Grand Prix,1994,5,4
+259,San Marino Grand Prix,1994,3,8
+260,Monaco Grand Prix,1994,4,5
+261,Spanish Grand Prix,1994,5,3
 262,Canadian Grand Prix,1994,6,4
 263,French Grand Prix,1994,7,6
 264,British Grand Prix,1994,8,0
@@ -282,7 +282,7 @@ raceId,race,year,round,accident
 281,British Grand Prix,1993,9,3
 282,German Grand Prix,1993,10,4
 283,Hungarian Grand Prix,1993,11,6
-284,Belgian Grand Prix,1993,12,5
+284,Belgian Grand Prix,1993,12,4
 285,Italian Grand Prix,1993,13,9
 286,Portuguese Grand Prix,1993,14,8
 287,Japanese Grand Prix,1993,15,7
@@ -332,7 +332,7 @@ raceId,race,year,round,accident
 331,Belgian Grand Prix,1990,11,2
 332,Italian Grand Prix,1990,12,3
 333,Portuguese Grand Prix,1990,13,4
-334,Spanish Grand Prix,1990,14,7
+334,Spanish Grand Prix,1990,14,6
 335,Japanese Grand Prix,1990,15,6
 336,Australian Grand Prix,1990,16,3
 337,Bahrain Grand Prix,2010,1,1
@@ -375,19 +375,19 @@ raceId,race,year,round,accident
 374,Monaco Grand Prix,1988,3,5
 375,Mexican Grand Prix,1988,4,1
 376,Canadian Grand Prix,1988,5,1
-377,Detroit Grand Prix,1988,6,6
+377,Detroit Grand Prix,1988,6,5
 378,French Grand Prix,1988,7,1
 379,British Grand Prix,1988,8,0
 380,German Grand Prix,1988,9,4
-381,Hungarian Grand Prix,1988,10,3
+381,Hungarian Grand Prix,1988,10,2
 382,Belgian Grand Prix,1988,11,3
 383,Italian Grand Prix,1988,12,1
 384,Portuguese Grand Prix,1988,13,3
 385,Spanish Grand Prix,1988,14,1
-386,Japanese Grand Prix,1988,15,5
+386,Japanese Grand Prix,1988,15,3
 387,Australian Grand Prix,1988,16,7
 388,Brazilian Grand Prix,1987,1,1
-389,San Marino Grand Prix,1987,2,2
+389,San Marino Grand Prix,1987,2,1
 390,Belgian Grand Prix,1987,3,3
 391,Monaco Grand Prix,1987,4,1
 392,Detroit Grand Prix,1987,5,5
@@ -424,7 +424,7 @@ raceId,race,year,round,accident
 423,Monaco Grand Prix,1985,4,6
 424,Canadian Grand Prix,1985,5,4
 425,Detroit Grand Prix,1985,6,6
-426,French Grand Prix,1985,7,4
+426,French Grand Prix,1985,7,3
 427,British Grand Prix,1985,8,5
 428,German Grand Prix,1985,9,2
 429,Austrian Grand Prix,1985,10,2
@@ -432,7 +432,7 @@ raceId,race,year,round,accident
 431,Italian Grand Prix,1985,12,0
 432,Belgian Grand Prix,1985,13,4
 433,European Grand Prix,1985,14,3
-434,South African Grand Prix,1985,15,4
+434,South African Grand Prix,1985,15,3
 435,Australian Grand Prix,1985,16,1
 436,Brazilian Grand Prix,1984,1,1
 437,South African Grand Prix,1984,2,0
@@ -451,7 +451,7 @@ raceId,race,year,round,accident
 450,European Grand Prix,1984,15,5
 451,Portuguese Grand Prix,1984,16,1
 452,Brazilian Grand Prix,1983,1,2
-453,United States Grand Prix West,1983,2,7
+453,United States Grand Prix West,1983,2,6
 454,French Grand Prix,1983,3,1
 455,San Marino Grand Prix,1983,4,9
 456,Monaco Grand Prix,1983,5,6
@@ -472,13 +472,13 @@ raceId,race,year,round,accident
 471,Belgian Grand Prix,1982,5,6
 472,Monaco Grand Prix,1982,6,3
 473,Detroit Grand Prix,1982,7,9
-474,Canadian Grand Prix,1982,8,5
+474,Canadian Grand Prix,1982,8,4
 475,Dutch Grand Prix,1982,9,1
-476,British Grand Prix,1982,10,7
+476,British Grand Prix,1982,10,6
 477,French Grand Prix,1982,11,4
 478,German Grand Prix,1982,12,3
 479,Austrian Grand Prix,1982,13,7
-480,Swiss Grand Prix,1982,14,2
+480,Swiss Grand Prix,1982,14,1
 481,Italian Grand Prix,1982,15,3
 482,Caesars Palace Grand Prix,1982,16,3
 483,United States Grand Prix West,1981,1,9
@@ -529,7 +529,7 @@ raceId,race,year,round,accident
 528,Brazilian Grand Prix,1978,2,7
 529,South African Grand Prix,1978,3,3
 530,United States Grand Prix West,1978,4,6
-531,Monaco Grand Prix,1978,5,3
+531,Monaco Grand Prix,1978,5,2
 532,Belgian Grand Prix,1978,6,8
 533,Spanish Grand Prix,1978,7,2
 534,Swedish Grand Prix,1978,8,3
@@ -545,7 +545,7 @@ raceId,race,year,round,accident
 544,Brazilian Grand Prix,1977,2,8
 545,South African Grand Prix,1977,3,3
 546,United States Grand Prix West,1977,4,3
-547,Spanish Grand Prix,1977,5,5
+547,Spanish Grand Prix,1977,5,4
 548,Monaco Grand Prix,1977,6,0
 549,Belgian Grand Prix,1977,7,7
 550,Swedish Grand Prix,1977,8,1
@@ -602,7 +602,7 @@ raceId,race,year,round,accident
 601,Austrian Grand Prix,1974,12,4
 602,Italian Grand Prix,1974,13,1
 603,Canadian Grand Prix,1974,14,1
-604,United States Grand Prix,1974,15,1
+604,United States Grand Prix,1974,15,0
 605,Argentine Grand Prix,1973,1,0
 606,Brazilian Grand Prix,1973,2,0
 607,South African Grand Prix,1973,3,5
@@ -623,7 +623,7 @@ raceId,race,year,round,accident
 622,Spanish Grand Prix,1972,3,4
 623,Monaco Grand Prix,1972,4,6
 624,Belgian Grand Prix,1972,5,2
-625,French Grand Prix,1972,6,1
+625,French Grand Prix,1972,6,0
 626,British Grand Prix,1972,7,6
 627,German Grand Prix,1972,8,2
 628,Austrian Grand Prix,1972,9,0
@@ -650,7 +650,7 @@ raceId,race,year,round,accident
 649,British Grand Prix,1970,7,2
 650,German Grand Prix,1970,8,0
 651,Austrian Grand Prix,1970,9,1
-652,Italian Grand Prix,1970,10,2
+652,Italian Grand Prix,1970,10,1
 653,Canadian Grand Prix,1970,11,0
 654,United States Grand Prix,1970,12,0
 655,Mexican Grand Prix,1970,13,0
@@ -693,7 +693,7 @@ raceId,race,year,round,accident
 692,French Grand Prix,1966,3,0
 693,British Grand Prix,1966,4,0
 694,Dutch Grand Prix,1966,5,2
-695,German Grand Prix,1966,6,4
+695,German Grand Prix,1966,6,3
 696,Italian Grand Prix,1966,7,1
 697,United States Grand Prix,1966,8,0
 698,Mexican Grand Prix,1966,9,0
@@ -705,13 +705,13 @@ raceId,race,year,round,accident
 704,Dutch Grand Prix,1965,6,0
 705,German Grand Prix,1965,7,0
 706,Italian Grand Prix,1965,8,0
-707,United States Grand Prix,1965,9,1
+707,United States Grand Prix,1965,9,0
 708,Mexican Grand Prix,1965,10,0
 709,Monaco Grand Prix,1964,1,0
 710,Dutch Grand Prix,1964,2,1
-711,Belgian Grand Prix,1964,3,1
+711,Belgian Grand Prix,1964,3,0
 712,French Grand Prix,1964,4,2
-713,British Grand Prix,1964,5,3
+713,British Grand Prix,1964,5,2
 714,German Grand Prix,1964,6,2
 715,Austrian Grand Prix,1964,7,2
 716,Italian Grand Prix,1964,8,0
@@ -843,7 +843,7 @@ raceId,race,year,round,accident
 843,Chinese Grand Prix,2011,3,0
 844,Turkish Grand Prix,2011,4,0
 845,Spanish Grand Prix,2011,5,1
-846,Monaco Grand Prix,2011,6,5
+846,Monaco Grand Prix,2011,6,4
 847,Canadian Grand Prix,2011,7,5
 848,European Grand Prix,2011,8,0
 849,British Grand Prix,2011,9,1

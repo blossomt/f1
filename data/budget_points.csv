@@ -1,0 +1,46 @@
+team,year,budget (USD$M),constructor,points
+Mercedes,2015,527.6,Mercedes,703.0
+Mercedes,2016,352.0,Mercedes,765.0
+Mercedes,2017,352.1,Mercedes,668.0
+Mercedes,2018,400.0,Mercedes,655.0
+Mercedes,2019,484.0,Mercedes,739.0
+Ferrari,2015,474.7,Ferrari,428.0
+Ferrari,2016,483.3,Ferrari,398.0
+Ferrari,2017,295.3,Ferrari,522.0
+Ferrari,2018,410.0,Ferrari,571.0
+Ferrari,2019,463.0,Ferrari,504.0
+Red Bull Racing,2015,532.5,Red Bull Racing,187.0
+Red Bull Racing,2016,286.2,Red Bull Racing,468.0
+Red Bull Racing,2017,284.0,Red Bull Racing,368.0
+Red Bull Racing,2018,310.0,Red Bull Racing,419.0
+Red Bull Racing,2019,445.0,Red Bull Racing,417.0
+McLaren,2015,528.3,McLaren,27.0
+McLaren,2016,246.4,McLaren,76.0
+McLaren,2017,240.8,McLaren,30.0
+McLaren,2018,220.0,McLaren,62.0
+McLaren,2019,269.0,McLaren,145.0
+Lotus F1,2015,149.8,Lotus F1,78.0
+Renault,2016,199.8,Renault,8.0
+Renault,2017,195.4,Renault,57.0
+Renault,2018,190.0,Renault,122.0
+Renault,2019,272.0,Renault,91.0
+Force India,2015,147.3,Force India,136.0
+Force India,2016,119.2,Force India,173.0
+Force India,2017,117.0,Force India,187.0
+Force India,2018,120.0,Force India,111.0
+Racing Point,2019,188.0,Racing Point,73.0
+Alfa Romeo Racing,2015,117.2,,
+Alfa Romeo Racing,2016,126.0,,
+Alfa Romeo Racing,2017,123.8,,
+Alfa Romeo Racing,2018,135.0,,
+Alfa Romeo Racing,2019,132.0,Alfa Romeo Racing,57.0
+Williams,2015,217.7,Williams,257.0
+Williams,2016,139.6,Williams,138.0
+Williams,2017,136.3,Williams,83.0
+Williams,2018,150.0,Williams,7.0
+Williams,2019,141.0,Williams,1.0
+Haas F1 Team,2015,,,
+Haas F1 Team,2016,,Haas F1 Team,29.0
+Haas F1 Team,2017,130.6,Haas F1 Team,47.0
+Haas F1 Team,2018,130.0,Haas F1 Team,93.0
+Haas F1 Team,2019,173.0,Haas F1 Team,28.0

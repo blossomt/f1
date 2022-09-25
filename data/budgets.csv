@@ -14,11 +14,11 @@ Ferrari,2016,483.3
 Ferrari,2017,295.3
 Ferrari,2018,410
 Ferrari,2019,463
-Red Bull,2015,532.5
-Red Bull,2016,286.2
-Red Bull,2017,284
-Red Bull,2018,310
-Red Bull,2019,445
+Red Bull Racing,2015,532.5
+Red Bull Racing,2016,286.2
+Red Bull Racing,2017,284
+Red Bull Racing,2018,310
+Red Bull Racing,2019,445
 McLaren,2002,304.6
 McLaren,2003,359.22
 McLaren,2004,359.33
@@ -29,21 +29,21 @@ McLaren,2016,246.4
 McLaren,2017,240.8
 McLaren,2018,220
 McLaren,2019,269
-Alpine (Renault/Lotus),2015,149.8
-Alpine (Renault/Lotus),2016,199.8
-Alpine (Renault/Lotus),2017,195.4
-Alpine (Renault/Lotus),2018,190
-Alpine (Renault/Lotus),2019,272
-Aston Martin (Racing Point/Force India),2015,147.3
-Aston Martin (Racing Point/Force India),2016,119.2
-Aston Martin (Racing Point/Force India),2017,117
-Aston Martin (Racing Point/Force India),2018,120
-Aston Martin (Racing Point/Force India),2019,188
-Alfa Romeo (Sauber),2015,117.2
-Alfa Romeo (Sauber),2016,126
-Alfa Romeo (Sauber),2017,123.8
-Alfa Romeo (Sauber),2018,135
-Alfa Romeo (Sauber),2019,132
+Lotus F1,2015,149.8
+Renault,2016,199.8
+Renault,2017,195.4
+Renault,2018,190
+Renault,2019,272
+Force India,2015,147.3
+Force India,2016,119.2
+Force India,2017,117
+Force India,2018,120
+Racing Point,2019,188
+Alfa Romeo Racing,2015,117.2
+Alfa Romeo Racing,2016,126
+Alfa Romeo Racing,2017,123.8
+Alfa Romeo Racing,2018,135
+Alfa Romeo Racing,2019,132
 Williams,2002,353.3
 Williams,2003,359.04
 Williams,2004,355.59
@@ -54,9 +54,9 @@ Williams,2016,139.6
 Williams,2017,136.3
 Williams,2018,150
 Williams,2019,141
-Haas,2015,NA
-Haas,2016,NA
-Haas,2017,130.6
-Haas,2018,130
-Haas,2019,173
+Haas F1 Team,2015,NA
+Haas F1 Team,2016,NA
+Haas F1 Team,2017,130.6
+Haas F1 Team,2018,130
+Haas F1 Team,2019,173
 

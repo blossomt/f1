@@ -1,4 +1,5 @@
 f1db_csv
 cache
-data/telemetry.csv
+data/telemetry*.csv
 .vscode
+dashboard

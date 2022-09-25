@@ -47,3 +47,9 @@ just got license,
 
 circuits
 - downforce level https://sportsdud.com/f1-list-of-power-tracks/
+- interactive map and geojson https://github.com/bacinger/f1-circuits
+
+things to try
+- play axis for bar chart
+- other analysis on nunmber of gear shifts
+- has budget affected performance?
